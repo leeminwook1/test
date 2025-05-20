@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroui/react": "^2.7.8",
     "@tensorflow/tfjs": "^4.22.0",
+    "framer-motion": "^12.11.4",
     "vue": "^3.5.13",
     "vue-router": "^4.5.1"
   },
